@@ -98,9 +98,9 @@ export class ReactiveComponent implements OnInit {
 
     // this.forma.setValue({
     this.forma.reset({
-      nombre: 'Fernando',
-      apellido: 'Perez',
-      correo: 'fernando@gmail.com',
+      nombre: 'Benito',
+      apellido: 'Camela',
+      correo: 'benito@camela.ya',
       pass1: '123',
       pass2: '123',
       direccion: {
